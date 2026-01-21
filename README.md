@@ -32,23 +32,6 @@ A dynamic and feature-rich Metro Rail Management System built using **PHP**, **O
 - **Database:** Oracle 10g Express Edition
 - **Reporting:** PDF Generation Library (e.g., FPDF/DomPDF)
 
----
-
-### 📸 Screenshots
-
-<details>
-  <summary><b>👁️ Click to view Project Gallery</b></summary>
-  
-  <p align="center">
-    <img src="screenshots/index.png" width="400" alt="Landing Page">
-    <img src="screenshots/login.png" width="400" alt="Login Page">
-    <br>
-    <img src="screenshots/dashboard.png" width="400" alt="Passenger Dashboard">
-    <img src="screenshots/ticket.png" width="400" alt="PDF Ticket Sample">
-  </p>
-</details>
-
----
 
 ### ⚙️ How to Setup
 
@@ -61,9 +44,6 @@ A dynamic and feature-rich Metro Rail Management System built using **PHP**, **O
 
 ---
 
-### 📺 Video Walkthrough
-[Watch the full demonstration on YouTube](YOUR_YOUTUBE_LINK_HERE)
 
----
 
 Developed with ❤️ by **Diamond Halder**
