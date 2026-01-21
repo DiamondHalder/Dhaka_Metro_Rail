@@ -43,7 +43,15 @@ A dynamic and feature-rich Metro Rail Management System built using **PHP**, **O
    - Access it via `localhost/Dhaka_Metro` in your web browser.
 
 ---
+### 📸 Project Screenshots
 
+<p align="left">
+  <a href="screenshot/">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20SCREENSHOTS-blue?style=for-the-badge&logo=google-photos&logoColor=white" alt="View Screenshots" />
+  </a>
+</p>
+
+---
 
 
 Developed with ❤️ by **Diamond Halder**
