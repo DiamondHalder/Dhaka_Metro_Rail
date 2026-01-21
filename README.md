@@ -1,5 +1,3 @@
-### 🚀 Project Demo
-![Metro Rail Walkthrough](projectScreenshots.gif)
 
 
 # 🚉 Dhaka Metro Rail Management System
